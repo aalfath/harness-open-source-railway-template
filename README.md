@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/harness-open-source-1?utm_medium=integration&utm_source=button&utm_campaign=harness-open-source)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/harness-open-sourc-1?utm_medium=integration&utm_source=button&utm_campaign=harness-open-source)
 
 # Harness Open Source on Railway
 

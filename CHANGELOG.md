@@ -2,6 +2,12 @@
 
 Breaking changes are listed first in each entry.
 
+## 3.3.0 (2026-11-17, README only)
+
+No change to the app, the image or the variables: nothing to do when you apply this update.
+
+- The Deploy on Railway button now links to the published template code `harness-open-sourc-1`. Railway shortens long codes on publish, so the earlier link (`harness-open-source-1`) returned 404.
+
 ## 3.3.0 (2026-11-17)
 
 First version of this template.
